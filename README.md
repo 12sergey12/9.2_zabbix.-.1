@@ -7,7 +7,7 @@
 ###### Приложите скриншот авторизации в админке.
 ![monitoring](https://github.com/12sergey12/9.2_zabbix.-.1/blob/main/images/9-1-000.png)
 
-#####Приложите текст использованных команд в GitHub.
+##### Приложите текст использованных команд в GitHub.
 * ip a
 * sudo apt update
 * sudo apt upgrade
